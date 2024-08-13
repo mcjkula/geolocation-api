@@ -38,7 +38,7 @@ To run and use the Geolocation API, you need the following:
 pip install -r requirements.txt
 ```
 
-3. Create your MaxMind license key and download the config. (Get it from here: https://www.maxmind.com/en/accounts/<YOUR_ACCOUNT_ID>/license-key)
+3. Create your MaxMind license key and download the config. (Get it from here: https://www.maxmind.com/en/accounts/XXXXXXX/license-key)
 4. Ensure you have the valid MaxMind config at `config/GeoIP.conf`.
 5. Run the application:
 ```bash
