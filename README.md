@@ -42,8 +42,9 @@ pip install -r requirements.txt
 4. Create your MaxMind license key and download the config. (Get it from here: https://www.maxmind.com/en/accounts/XXXXXXX/license-key)
 5. Ensure you have the valid MaxMind config at `config/GeoIP.conf`.
 6. Run the application:
+
 ```bash
-   python app.py
+python app.py
 ```
 5. Make a GET request to `http://127.0.0.1:5000/geolocate?ip=<IP_ADDRESS>` to retrieve geolocation data.
 
