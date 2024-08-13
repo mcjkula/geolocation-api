@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env/
+data/
+tmp/
+*.mmdb
+*.tar.gz
+*.log
+.DS_Store
+config/GeoIP.conf
